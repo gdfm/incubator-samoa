@@ -5,9 +5,9 @@ url: "http://samoa.incubator.apache.org" # the base hostname & protocol for your
 twitter_username: ApacheSAMOA 
 github_username:  apache/incubator-samoa
 
-# Build settings
-markdown: redcarpet
-redcarpet:
+# Build sattings
+markdown: kramdown
+kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 
